@@ -33,7 +33,7 @@ This reproduction makes the following changes:
 - Temperature: 0.0
 - Thinking mode: Disabled
 
-## Results
+## Modified Baseline Results
 
 - Exact match: 27.00%
 - F1: 28.57%
