@@ -1,4 +1,4 @@
-# memoryagentbench-recencyretrieval
+# MemoryAgentBench-RecencyRetrieval
 Embedding-RAG reproduction and recency-aware retrieval project
 
 ## Upstream Repository
